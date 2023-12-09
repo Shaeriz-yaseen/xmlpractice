@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentsheet>
+<student>
+<name id="114">yasir</name>
+<fees>1200</fees>
+<course>accp</course>
+</student>
+
+<student>
+    <name id="116">yousuf</name>
+    <fees>1100</fees>
+    <course>dism</course>
+    </student>
+    
+    <student>
+        <name id="115">yasir</name>
+        <fees>1500</fees>
+        <course>cpism</course>
+        </student>
+        
+</studentsheet>
